@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="10" fill="#89b4fa"/>
+  <!-- Динамик -->
+  <path d="M12 19h7l9-7v24l-9-7h-7z" fill="#1e1e2e"/>
+  <!-- Звуковые волны -->
+  <path d="M32 16c3.5 3 3.5 13 0 16" fill="none" stroke="#1e1e2e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 12c6 5 6 19 0 24" fill="none" stroke="#1e1e2e" stroke-width="3" stroke-linecap="round"/>
+</svg>
